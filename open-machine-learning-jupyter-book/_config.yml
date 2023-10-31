@@ -21,11 +21,9 @@ execute:
     - 'ml-fundamentals/build-a-web-app-to-use-a-machine-learning-model.md'
     - 'ml-fundamentals/regression/managing-data.md'
     - 'ml-fundamentals/regression/loss-function.ipynb'
-    - 'ml-advanced/ensemble-learning/random-forest.md'
     - 'ml-advanced/clustering/introduction-to-clustering.ipynb'
     - 'ml-advanced/clustering/k-means-clustering.ipynb'
     - 'data-science/data-visualization/visualization-distributions.md'
-    - 'ml-advanced/unsupervised-learning.ipynb'
     - 'data-science/data-science-in-the-cloud/the-azure-ml-sdk-way.ipynb'
     - 'data-science/data-science-in-the-cloud/the-low-code-no-code-way.ipynb'
     
